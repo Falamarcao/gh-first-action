@@ -11,4 +11,4 @@ jobs:
       - name: Multi-Line Shell Commands
         run: |
             echo "First output"
-            echo "Secound output"
+            echo "Second output"
